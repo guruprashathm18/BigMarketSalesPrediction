@@ -9,9 +9,14 @@ Programming Language - Python
 
 A predictive model was developed using 
 LinearRegression,
+
 Ridge,
+
 Lasso,
+
 DecisionTreeRegressor,
+
 RandomForestRegressor,
+
 ExtraTreesRegressor techniques for forecasting the sales of a business such as Big -Mart, and it was discovered that the model outperforms existing models.
 
